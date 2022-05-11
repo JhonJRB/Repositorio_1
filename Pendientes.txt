@@ -1,2 +1,3 @@
 Lunes: comer
 Martes:Reir
+Miercoles:Trabajar
